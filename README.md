@@ -54,20 +54,20 @@ The global **Media Monitoring & Intelligence Market** is estimated at **$6.0 bil
 
 ## 🔓 Open-Source Media Monitoring & Scraper Repositories
 
-*Commercial media monitoring (especially licensed print news archives and broadcast TV/radio capture) relies on licensed data feeds. Open-source solutions provide self-hosted RSS aggregation, web/news scrapers, social listening prototypes, and NLP sentiment pipelines. Sorted by GitHub star count (descending).* ⭐
+*Commercial media monitoring (especially licensed print news archives and broadcast TV/radio capture) relies on licensed data feeds. Open-source solutions provide self-hosted RSS aggregation, web/news scrapers, social listening prototypes, and NLP sentiment pipelines. Sorted by GitHub Stars_Count (descending).* ⭐
 
-| Repository | GitHub Stars | Focus & Core Functionality |
+| Repository | GitHub_Stars | Focus & Core Functionality |
 | :--- | :--- | :--- |
-| **[RSSHub](https://github.com/DIYgod/RSSHub)** | [![GitHub stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers) | Extensible RSS feed generator for websites, social media platforms (X/Twitter, YouTube, Reddit, Bilibili), and news feeds. |
-| **[newspaper3k](https://github.com/codelucas/newspaper)** | [![GitHub stars](https://img.shields.io/github/stars/codelucas/newspaper?style=social&color=white)](https://github.com/codelucas/newspaper/stargazers) | Python news article scraping, content curation, and full-text metadata extraction library. |
-| **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** | [![GitHub stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=social&color=white)](https://github.com/FreshRSS/FreshRSS/stargazers) | Lightweight self-hosted RSS feed aggregator with built-in filtering, keyword alerts, and multi-user support. |
-| **[Miniflux](https://github.com/miniflux/v2)** | [![GitHub stars](https://img.shields.io/github/stars/miniflux/v2?style=social&color=white)](https://github.com/miniflux/v2/stargazers) | Minimalist, opinionated self-hosted RSS feed reader in Go with Webhook integrations and REST API for keyword monitoring. |
-| **[google-news-scraper](https://github.com/oxylabs/google-news-scraper)** | [![GitHub stars](https://img.shields.io/github/stars/oxylabs/google-news-scraper?style=social&color=white)](https://github.com/oxylabs/google-news-scraper/stargazers) | Python scraper to collect search results, articles, and topic headlines from Google News into structured JSON. |
-| **[Obsei](https://github.com/obsei/obsei-resources)** | [![GitHub stars](https://img.shields.io/github/stars/obsei/obsei-resources?style=social&color=white)](https://github.com/obsei/obsei-resources/stargazers) | Low-code AI automation framework for social listening, sentiment analysis, brand alert pipelines, and notification webhooks. |
-| **[GNews](https://github.com/ranahaani/GNews)** | [![GitHub stars](https://img.shields.io/github/stars/ranahaani/GNews?style=social&color=white)](https://github.com/ranahaani/GNews/stargazers) | Lightweight Python package to fetch search queries and full article text from Google News API. |
-| **[cvcio/mediawatch](https://github.com/cvcio/mediawatch)** | [![GitHub stars](https://img.shields.io/github/stars/cvcio/mediawatch?style=social&color=white)](https://github.com/cvcio/mediawatch/stargazers) | Open-source platform for real-time online media monitoring, news network analysis, article clustering, and disinformation tracking. |
-| **[Harken](https://github.com/VladUZH/harken)** | [![GitHub stars](https://img.shields.io/github/stars/VladUZH/harken?style=social&color=white)](https://github.com/VladUZH/harken/stargazers) | Self-hosted social listening tool monitoring brand mentions on Hacker News, Reddit, Mastodon, Bluesky, and RSS with sentiment scoring. |
-| **[Social Listening Tool](https://github.com/HasData/social-listening-tool)** | [![GitHub stars](https://img.shields.io/github/stars/HasData/social-listening-tool?style=social&color=white)](https://github.com/HasData/social-listening-tool/stargazers) | AI-assisted brand mention tracking across Reddit, TikTok, Facebook, X (Twitter), and Google search using LLMs and SERP data. |
+| **[RSSHub](https://github.com/DIYgod/RSSHub)** | [![GitHub_Stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers) | Extensible RSS feed generator for websites, social media platforms (X/Twitter, YouTube, Reddit, Bilibili), and news feeds. |
+| **[newspaper3k](https://github.com/codelucas/newspaper)** | [![GitHub_Stars](https://img.shields.io/github/stars/codelucas/newspaper?style=social&color=white)](https://github.com/codelucas/newspaper/stargazers) | Python news article scraping, content curation, and full-text metadata extraction library. |
+| **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** | [![GitHub_Stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=social&color=white)](https://github.com/FreshRSS/FreshRSS/stargazers) | Lightweight self-hosted RSS feed aggregator with built-in filtering, keyword alerts, and multi-user support. |
+| **[Miniflux](https://github.com/miniflux/v2)** | [![GitHub_Stars](https://img.shields.io/github/stars/miniflux/v2?style=social&color=white)](https://github.com/miniflux/v2/stargazers) | Minimalist, opinionated self-hosted RSS feed reader in Go with Webhook integrations and REST API for keyword monitoring. |
+| **[google-news-scraper](https://github.com/oxylabs/google-news-scraper)** | [![GitHub_Stars](https://img.shields.io/github/stars/oxylabs/google-news-scraper?style=social&color=white)](https://github.com/oxylabs/google-news-scraper/stargazers) | Python scraper to collect search results, articles, and topic headlines from Google News into structured JSON. |
+| **[Obsei](https://github.com/obsei/obsei-resources)** | [![GitHub_Stars](https://img.shields.io/github/stars/obsei/obsei-resources?style=social&color=white)](https://github.com/obsei/obsei-resources/stargazers) | Low-code AI automation framework for social listening, sentiment analysis, brand alert pipelines, and notification webhooks. |
+| **[GNews](https://github.com/ranahaani/GNews)** | [![GitHub_Stars](https://img.shields.io/github/stars/ranahaani/GNews?style=social&color=white)](https://github.com/ranahaani/GNews/stargazers) | Lightweight Python package to fetch search queries and full article text from Google News API. |
+| **[cvcio/mediawatch](https://github.com/cvcio/mediawatch)** | [![GitHub_Stars](https://img.shields.io/github/stars/cvcio/mediawatch?style=social&color=white)](https://github.com/cvcio/mediawatch/stargazers) | Open-source platform for real-time online media monitoring, news network analysis, article clustering, and disinformation tracking. |
+| **[Harken](https://github.com/VladUZH/harken)** | [![GitHub_Stars](https://img.shields.io/github/stars/VladUZH/harken?style=social&color=white)](https://github.com/VladUZH/harken/stargazers) | Self-hosted social listening tool monitoring brand mentions on Hacker News, Reddit, Mastodon, Bluesky, and RSS with sentiment scoring. |
+| **[Social Listening Tool](https://github.com/HasData/social-listening-tool)** | [![GitHub_Stars](https://img.shields.io/github/stars/HasData/social-listening-tool?style=social&color=white)](https://github.com/HasData/social-listening-tool/stargazers) | AI-assisted brand mention tracking across Reddit, TikTok, Facebook, X (Twitter), and Google search using LLMs and SERP data. |
 
 ---
 
@@ -87,7 +87,7 @@ When building or evaluating media monitoring software:
 1. 🍴 Fork the repository.
 2. 🌿 Create a new branch (`git checkout -b feature/add-tool`).
 3. 📝 Add or update entries in `README.md` following the table structure.
-4. ⭐ Ensure SaaS pricing and open-source star badges are up to date.
+4. ⭐ Ensure SaaS pricing and open-source Stars_Badges are up to date.
 5. 🔀 Open a Pull Request with a clear description of changes.
 
 ---
