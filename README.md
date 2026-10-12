@@ -49,6 +49,7 @@ The global **Media Monitoring & Intelligence Market** is estimated at **$6.0 bil
 | **[Determ](https://www.determ.com/)** | Real-time brand monitoring, social listening, spikes notification, and automated sentiment analysis reporting. | **~$10M–$20M Rev** | Starting at **€99 / month** (~$108/mo billed annually) | 7-day full feature free trial (no credit card required) |
 | **[Critical Mention](https://www.criticalmention.com/)** *(Onclusive company)* | Real-time broadcast TV/Radio monitoring, online news scraping, podcast tracking, and clip editing/sharing. | **~$19M Rev** | Starting at ~$2,500 / year | No free tier; interactive live sales demo only (0 free days) |
 | **[Truescope](https://www.truescope.com/)** | Next-gen SaaS platform tracking digital, social, print, and broadcast media with real-time charting. | **~$17.8M Rev** | Starting at ~$3,600 / year (~$300/mo) | 14-day free trial on select standard tiers |
+| **[Arcmira: YouTube Transcript Search](https://arcmira.com)** | Search indexed YouTube speech for timestamped quotes, speaker appearances and mentions; monitor named entities. [API docs](https://arcmira.com/docs). | Undisclosed | Free; Pro $20/month | Free: 1,000 credits/month, 2 monitored names, no card; newest 30 days of media excluded. |
 
 ---
 
